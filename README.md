@@ -1,2 +1,2 @@
 # Hello-world
-first repository on github
+trying to understand how this works.
